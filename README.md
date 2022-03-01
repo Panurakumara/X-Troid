@@ -14,7 +14,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@lasindu123/XTROID)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lasiyaWA/X-Troid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Panurakumara/X-Troid)
 
 
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
@@ -26,6 +26,6 @@
 # base bot
 https://github.com/yusufusta/WhatsAsena
 # Baileys whatsapp api 
-https://github.com/adiwajshing/Baileys
+https://github.com/Panurakumara/Baileys
 
-[![](https://telegra.ph/file/1c742619b421e4713e414.jpg?size=50)](https://t.me/danumabots) 
+[![](https://telegra.ph/9d47ce50b998a396b32c.jpg?size=50)](https://t.me/The_Marvin_Bot_Support_Group) 
